@@ -8,5 +8,5 @@ Traffic Light Detection
 vehicle detection
 output and Visaulize
 
-Credit to our Supervisor: mynoddin.rmstu@gmail.com
+Credit to my Supervisor: mynoddin.rmstu@gmail.com
 
